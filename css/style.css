@@ -205,7 +205,7 @@ a
 
 #course_support .icon_box{
     box-shadow: 12px 11px 45px 16px rgba(0,0,0,0.1);
-    padding: 30px 20px;
+    padding: 30px 50px;
     border-radius: 5px;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
@@ -304,3 +304,28 @@ a
 }
 
 /* About Us CSS Ended Here  */
+
+
+
+
+/* Count Down CSS started Here  */
+#count_down{
+    padding: 50px 0;
+}
+
+.counter h4{
+    color: #FF630E;
+    font-size: 35px;
+    line-height: 45px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.counter span{
+    color: #07294d;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 600;
+}
+
+/* Count Down CSS Ended Here  */
